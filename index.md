@@ -1,8 +1,8 @@
 ## Welcome to Jeong-Kweon's Pages
 
-You can use the [editor on GitHub](https://github.com/seojksc/seojksc.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm currently working as researcher of computational science including data and artificial intelligence.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+(Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.)
 
 ### Markdown
 
