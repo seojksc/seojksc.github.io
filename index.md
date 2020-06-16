@@ -23,8 +23,11 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[데이터과학원 조직도](http://www.korea.ac.kr/mbshome/mbs/university/subview.do?id=university_010107000000#map2) and ![Image](src)
+[link](url) and ![Image](src)
 ```
+데이터과학원 조직도(고려대학교 홈페이지):
+[데이터과학원 조직도](http://www.korea.ac.kr/mbshome/mbs/university/subview.do?id=university_010107000000#map2)
+
 한국 참여 세계 첫 AI 협의체 GPAI 출범:
 For more details see [Chosun-Biz](https://biz.chosun.com/site/data/html_dir/2020/06/15/2020061503778.html?utm_source=naver&utm_medium=original&utm_campaign=biz).
 
