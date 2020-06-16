@@ -28,7 +28,6 @@ For more details see [Chosun-Biz](https://biz.chosun.com/site/data/html_dir/2020
 *
 
 ![가나 우산 바위](https://user-images.githubusercontent.com/26245409/84734475-e309f280-afdb-11ea-99bf-480949e8a69f.jpg)
-
 © Felix Lipov / Shutterstock
 
 *******************************************************************************
