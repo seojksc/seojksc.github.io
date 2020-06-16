@@ -4,7 +4,6 @@
 I'm currently working as researcher of computational science including **_data_** and **_artificial intelligence_**. I'm studying to develop efficient architecture of **_the neural networks_**.
 
 *******************************************************************************
-* (Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.)
 
 *******************************************************************************
 
@@ -41,6 +40,8 @@ Code for neural-networks
 *******************************************************************************
 
 *******************************************************************************
+
+* (Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.)
 
 ```markdown
 Codes of scientific computing...
