@@ -4,9 +4,8 @@ I'm currently working as researcher of computational science including data and 
 
 (Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 공지사항 & 데이터과학 인공지능 관련 뉴스
+In this section, recent informations or news related with data science and artificial intelligence will be informed. 
 
 ```markdown
 Syntax highlighted code block
@@ -25,9 +24,8 @@ Syntax highlighted code block
 
 [link](url) and ![Image](src)
 ```
-데이터과학원 조직도(고려대학교 홈페이지):
-[데이터과학원 조직도](http://www.korea.ac.kr/mbshome/mbs/university/subview.do?id=university_010107000000#map2)
-
+데이터과학원(고려대학교 홈페이지):
+[고려대학교 조직도](http://www.korea.ac.kr/mbshome/mbs/university/subview.do?id=university_010107000000#map2)
 [데이터과학원 행정실](http://www.korea.ac.kr/cop/dept/deptMemberList.do?siteId=university&deptCode=KN02193&orgDeptCode=6677)
 
 한국 참여 세계 첫 AI 협의체 GPAI 출범:
