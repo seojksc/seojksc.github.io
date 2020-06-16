@@ -1,5 +1,5 @@
 ## Welcome to Pages of Seo, Jeong-Kweon
-
+![스크린샷 2019-09-04 오전 9 58 40](https://user-images.githubusercontent.com/26245409/84734541-1c426280-afdc-11ea-8287-64518c28ea88.png)
 I'm currently working as researcher of computational science including data and artificial intelligence. I'm studying to develop efficient architecture of the neural networks.
 
 *******************************************************************************
