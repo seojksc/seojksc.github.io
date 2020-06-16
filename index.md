@@ -2,7 +2,7 @@
 
 I'm currently working as researcher of computational science including data and artificial intelligence.
 
-*(Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.)
+* (Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.)
 
 ### 공지사항 & 데이터과학 인공지능 관련 뉴스
 In this section, recent informations or news related with data science and artificial intelligence will be informed. 
