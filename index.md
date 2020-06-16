@@ -25,6 +25,7 @@ For more details see [Chosun-Biz](https://biz.chosun.com/site/data/html_dir/2020
 *
 
 *
+[Image](C:\Users\user\Pictures\Saved Pictures\1200px-Cetatea_Rupea,_judetul_Brasov.jpg)
 
 *******************************************************************************
 
