@@ -1,7 +1,7 @@
-# Welcome to Pages of _Seo, Jeong-Kweon_
+# Welcome to Pages of **_Seo, Jeong-Kweon_**
 ![스크린샷 2019-09-04 오전 9 58 40](https://user-images.githubusercontent.com/26245409/84734541-1c426280-afdc-11ea-8287-64518c28ea88.png)
 
-I'm currently working as researcher of computational science including _data_ and _artificial intelligence_. I'm studying to develop efficient architecture of _the neural networks_.
+I'm currently working as researcher of computational science including **_data_** and **_artificial intelligence_**. I'm studying to develop efficient architecture of _the neural networks_.
 
 *******************************************************************************
 * (Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.)
