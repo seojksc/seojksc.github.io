@@ -7,7 +7,8 @@ I'm currently working as researcher of computational science including data and 
 ### 공지사항 & 데이터과학 인공지능 관련 뉴스
 In this section, recent informations or news related with data science and artificial intelligence will be informed. 
 
-[1] 고려대학교 4차 산업혁명 선도할 '데이터 과학원' 개원:[데이터 과학원 개원식](http://www.dhnews.co.kr/news/articleView.html?idxno=119645)
+[1] 고려대학교 4차 산업혁명 선도할 '데이터 과학원' 개원:
+[데이터 과학원 개원식](http://www.dhnews.co.kr/news/articleView.html?idxno=119645)
 
 [2] 데이터과학원(고려대학교 홈페이지):
 [고려대학교 조직도](http://www.korea.ac.kr/mbshome/mbs/university/subview.do?id=university_010107000000#map2) /
