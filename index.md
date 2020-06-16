@@ -54,6 +54,8 @@ Syntax highlighted code block
 [link](url) and ![Image](src)
 ```
 
+`Code for neural-networks`
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 *******************************************************************************
