@@ -25,7 +25,9 @@ For more details see [Chosun-Biz](https://biz.chosun.com/site/data/html_dir/2020
 *
 
 *
-![Image](file:///C:/Users/user/Pictures/Saved%20Pictures/%EA%B0%80%EB%82%98%20%EC%9A%B0%EC%82%B0%20%EB%B0%94%EC%9C%84.jpg)
+
+![가나 우산 바위](https://user-images.githubusercontent.com/26245409/84734475-e309f280-afdb-11ea-99bf-480949e8a69f.jpg)
+
 *******************************************************************************
 
 *******************************************************************************
