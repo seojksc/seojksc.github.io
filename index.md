@@ -25,7 +25,7 @@ Syntax highlighted code block
 [link](url) and ![Image](src)
 ```
 데이터과학원(고려대학교 홈페이지):
-[고려대학교 조직도](http://www.korea.ac.kr/mbshome/mbs/university/subview.do?id=university_010107000000#map2)/
+[고려대학교 조직도](http://www.korea.ac.kr/mbshome/mbs/university/subview.do?id=university_010107000000#map2) /
 [데이터과학원 행정실](http://www.korea.ac.kr/cop/dept/deptMemberList.do?siteId=university&deptCode=KN02193&orgDeptCode=6677)
 
 한국 참여 세계 첫 AI 협의체 GPAI 출범:
