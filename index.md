@@ -55,7 +55,7 @@ Syntax highlighted code block
 ```
 
 ```markdown
-Code for **_neural-networks_**
+Code for neural-networks
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
