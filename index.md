@@ -1,4 +1,4 @@
-## Welcome to Jeong-Kweon's Pages
+## Welcome to Pages of Seo, Jeong-Kweon
 
 I'm currently working as researcher of computational science including data and artificial intelligence. I'm study to develop efficient architecture of the neural networks.
 
