@@ -14,6 +14,8 @@ In this section, recent informations or news related with data science and artif
 [2] 한국 참여 세계 첫 AI 협의체 GPAI 출범:
 For more details see [Chosun-Biz](https://biz.chosun.com/site/data/html_dir/2020/06/15/2020061503778.html?utm_source=naver&utm_medium=original&utm_campaign=biz).
 
+
+
 *******************************************************************************
 
 *******************************************************************************
