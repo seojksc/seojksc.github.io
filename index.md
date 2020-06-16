@@ -52,6 +52,8 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [link](url) and ![Image](src)
+
+[e-대학저널](http://www.dhnews.co.kr/news/articleView.html?idxno=119645)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
