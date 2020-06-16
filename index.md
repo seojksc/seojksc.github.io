@@ -4,6 +4,7 @@ I'm currently working as researcher of computational science including data and 
 
 *******************************************************************************
 * (Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.)
+
 *******************************************************************************
 
 ### 공지사항 & 데이터과학 인공지능 관련 뉴스
