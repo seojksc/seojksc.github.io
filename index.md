@@ -1,6 +1,6 @@
 ## Welcome to Pages of Seo, Jeong-Kweon
 
-I'm currently working as researcher of computational science including data and artificial intelligence. I'm study to develop efficient architecture of the neural networks.
+I'm currently working as researcher of computational science including data and artificial intelligence. I'm studying to develop efficient architecture of the neural networks.
 
 *******************************************************************************
 * (Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.)
