@@ -28,6 +28,8 @@ Syntax highlighted code block
 데이터과학원 조직도(고려대학교 홈페이지):
 [데이터과학원 조직도](http://www.korea.ac.kr/mbshome/mbs/university/subview.do?id=university_010107000000#map2)
 
+[데이터과학원 행정실](http://www.korea.ac.kr/cop/dept/deptMemberList.do?siteId=university&deptCode=KN02193&orgDeptCode=6677)
+
 한국 참여 세계 첫 AI 협의체 GPAI 출범:
 For more details see [Chosun-Biz](https://biz.chosun.com/site/data/html_dir/2020/06/15/2020061503778.html?utm_source=naver&utm_medium=original&utm_campaign=biz).
 
