@@ -26,6 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 한국 참여 세계 첫 AI 협의체 GPAI 출범
+
 For more details see [한국 참여 세계 첫 AI 협의체 GPAI 출범](https://biz.chosun.com/site/data/html_dir/2020/06/15/2020061503778.html?utm_source=naver&utm_medium=original&utm_campaign=biz).
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
