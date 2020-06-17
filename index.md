@@ -4,7 +4,7 @@
 I'm currently working as researcher of computational science including **_data_** and **_artificial intelligence_**. I'm studying to develop efficient architecture of **_the neural networks_**.
 
 *******************************************************************************
-
+ 
 *******************************************************************************
 
 ## 공지사항 & 데이터과학 인공지능 관련 뉴스
