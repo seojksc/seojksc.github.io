@@ -25,6 +25,7 @@ For more details see [Chosun-Biz](https://biz.chosun.com/site/data/html_dir/2020
 *
 
 *
+
 ### Study Room
 [1] 헬로 데이터 과학(Dr. Kim, Jin-young): For more details see [헬로 데이터 과학](http://www.hellodatascience.com/)
 
