@@ -1,5 +1,5 @@
 # Welcome to Pages of **_Seo, Jeong-Kweon_**
-
+![KakaoTalk_20200618_154415884](https://user-images.githubusercontent.com/26245409/84987346-ed162780-b17a-11ea-826d-696b1b21d83b.jpg)
 ![스크린샷 2019-09-04 오전 9 58 40](https://user-images.githubusercontent.com/26245409/84734541-1c426280-afdc-11ea-8287-64518c28ea88.png)
 ![데이터과학원 개원식](https://user-images.githubusercontent.com/26245409/84987173-a9bbb900-b17a-11ea-9e0f-f0edbba00593.png)
 
