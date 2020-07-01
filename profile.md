@@ -89,7 +89,7 @@ Jeong-Kweon Seo, Byeong-Chun SHIN
 
 *
 
-![KakaoTalk_20200701_202533172](https://user-images.githubusercontent.com/26245409/86248819-5b320400-bbe9-11ea-9515-eaecf8964860.jpg)
+![KakaoTalk_20200701_202533172](https://user-images.githubusercontent.com/26245409/86248819-5b320400-bbe9-11ea-9515-eaecf8964860.jpg){: .center}
 
 ![KakaoTalk_20200701_184307243](https://user-images.githubusercontent.com/26245409/86231023-db963c00-bbcc-11ea-8749-7746e39424ab.jpg)
 
