@@ -1,6 +1,13 @@
 # Profile of **_Seo, Jeong-Kweon_**
 
-![download (2)](https://user-images.githubusercontent.com/26245409/86245454-751d1800-bbe4-11ea-9f39-283e4ef078b8.png)
+```css
+.center {
+  display: block;
+  margin: auto;
+}}
+```
+
+![download (2)](https://user-images.githubusercontent.com/26245409/86245454-751d1800-bbe4-11ea-9f39-283e4ef078b8.png){: .center}
 
 I'm researching for **_Mathematical Computing_** including **_Deep Learning_** and **_PDE solver_** and **_Computer Vision_**, **_etc_**.
 
