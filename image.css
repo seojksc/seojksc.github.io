@@ -1,10 +1,12 @@
 <head>
 
-<link rel="img" href=https://seojksc.github.io/image.css/ type="text/css">
-
-img.alignleft{float:left} img.alignright{float:right} img.aligncenter{display:block;margin:0 auto}
+<link rel="stylesheet" href=https://seojksc.github.io/image.css/ type="text/css">
 
 </head>
+
+image.alignleft{float:left}
+image.alignright{float:right}
+image.aligncenter{display:block;margin:0 auto}
 
 
 
