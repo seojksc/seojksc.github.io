@@ -1,7 +1,7 @@
 # Profile of **_Seo, Jeong-Kweon_**
 
 ```css
-.center {
+.center > li {
   display: block;
   margin: auto;
 }
