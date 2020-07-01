@@ -91,6 +91,8 @@ Jeong-Kweon Seo, Byeong-Chun SHIN
 
 ![KakaoTalk_20200701_184307243](https://user-images.githubusercontent.com/26245409/86231023-db963c00-bbcc-11ea-8749-7746e39424ab.jpg)
 
+![KakaoTalk_20200701_213724369](https://user-images.githubusercontent.com/26245409/86245622-b0b7e200-bbe4-11ea-8058-87156a1c8d2f.jpg)
+
 ![stitching](https://user-images.githubusercontent.com/26245409/86245346-4c951e00-bbe4-11ea-9e79-0bceadd55ed8.png)
 
 ![KakaoTalk_20200701_202643259](https://user-images.githubusercontent.com/26245409/86243816-f45d1c80-bbe1-11ea-96cd-022fa620b152.jpg)
