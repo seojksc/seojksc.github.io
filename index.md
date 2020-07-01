@@ -4,6 +4,8 @@
 
 I'm currently working as researcher of computational science including **_data_** and **_artificial intelligence_**. I'm studying to develop efficient architecture of **_the neural networks_**.
 
+**GO to Jeong-kweon's profile -> [Click!](https://seojksc.github.io/profile)**
+
 *******************************************************************************
  
 *******************************************************************************
