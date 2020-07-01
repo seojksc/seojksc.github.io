@@ -2,6 +2,8 @@
 
 ![download (2)](https://user-images.githubusercontent.com/26245409/86245454-751d1800-bbe4-11ea-9f39-283e4ef078b8.png)
 
+<p align="center"><img src="https://user-images.githubusercontent.com/26245409/86245454-751d1800-bbe4-11ea-9f39-283e4ef078b8.png"></p>
+
 I'm researching for **_Mathematical Computing_** including **_Deep Learning_** and **_PDE solver_** and **_Computer Vision_**, **_etc_**.
 
 ![직장들](https://user-images.githubusercontent.com/26245409/86247793-f3c78480-bbe7-11ea-9e34-5904b4ee1dfd.png)
