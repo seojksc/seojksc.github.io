@@ -1,9 +1,11 @@
 <head>
 
-<link rel="stylesheet" href=https://seojksc.github.io/image.css/ type="text/css">
+<link rel="img" href=https://seojksc.github.io/image.css/ type="text/css">
+
+img.alignleft{float:left} img.alignright{float:right} img.aligncenter{display:block;margin:0 auto}
 
 </head>
 
 
 
-img.alignleft{float:left} img.alignright{float:right} img.aligncenter{display:block;margin:0 auto}
+
