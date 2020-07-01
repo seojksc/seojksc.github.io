@@ -3,6 +3,8 @@
 
 I'm researching for **_Mathematical Computing_** including **_Deep Learning_** and **_PDE solver_** and **_Computer Vision_**, **_etc_**.
 
+![직장들](https://user-images.githubusercontent.com/26245409/86247793-f3c78480-bbe7-11ea-9e34-5904b4ee1dfd.png)
+
 *******************************************************************************
  
 *******************************************************************************
