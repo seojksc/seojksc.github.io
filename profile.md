@@ -1,5 +1,5 @@
 # Profile of **_Seo, Jeong-Kweon_**
-![로마서 하트](https://user-images.githubusercontent.com/26245409/86231332-5bbca180-bbcd-11ea-9c05-797234dcbb5f.png)
+![download (2)](https://user-images.githubusercontent.com/26245409/86245454-751d1800-bbe4-11ea-9f39-283e4ef078b8.png)
 
 I'm researching for **_Mathematical Computing_** including **_Deep Learning_** and **_PDE solver_** and **_Computer Vision_**, **_etc_**.
 
@@ -91,7 +91,7 @@ Jeong-Kweon Seo, Byeong-Chun SHIN
 
 ![KakaoTalk_20200701_184307243](https://user-images.githubusercontent.com/26245409/86231023-db963c00-bbcc-11ea-8749-7746e39424ab.jpg)
 
-[pv.pdf](https://github.com/seojksc/seojksc.github.io/files/4857822/pv.pdf)
+![stitching](https://user-images.githubusercontent.com/26245409/86245346-4c951e00-bbe4-11ea-9e79-0bceadd55ed8.png)
 
 ![KakaoTalk_20200701_202643259](https://user-images.githubusercontent.com/26245409/86243816-f45d1c80-bbe1-11ea-96cd-022fa620b152.jpg)
 
