@@ -1,12 +1,11 @@
 # Profile of **_Seo, Jeong-Kweon_**
 
 ```css
-.center > li {
-  display: block;
-  margin: auto;
+.list > li {
+  position: absolute;
+  top: 40px;
 }
 ```
-
 ![download (2)](https://user-images.githubusercontent.com/26245409/86245454-751d1800-bbe4-11ea-9f39-283e4ef078b8.png){: .center}
 
 I'm researching for **_Mathematical Computing_** including **_Deep Learning_** and **_PDE solver_** and **_Computer Vision_**, **_etc_**.
