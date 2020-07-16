@@ -21,7 +21,11 @@ For more details see [e-대학저널](http://www.dhnews.co.kr/news/articleView.h
 [데이터과학원 행정실](http://www.korea.ac.kr/cop/dept/deptMemberList.do?siteId=university&deptCode=KN02193&orgDeptCode=6677)
 
 [3] 한국 참여 세계 첫 AI 협의체 GPAI 출범:
-For more details see [Chosun-Biz](https://biz.chosun.com/site/data/html_dir/2020/06/15/2020061503778.html?utm_source=naver&utm_medium=original&utm_campaign=biz).
+For more details see [Chosun-Biz](https://biz.chosun.com/site/data/html_dir/2020/06/15/2020061503778.html?utm_source=naver&utm_medium=original&utm_campaign=biz)
+
+[4] K-뉴딜정책, 2025년까지 114조 투입:
+For more details see [hankyung.com](https://www.hankyung.com/politics/article/2020071662357) and [eroun.net](http://www.eroun.net/news/articleView.html?idxno=12680)
+
 
 *
 
