@@ -42,6 +42,8 @@ For more details see [hankyung.com](https://www.hankyung.com/politics/article/20
 
 [2] Easy Word-Cloud: For more details see [wordcloud.com](https://www.wordclouds.com/)
 
+[3] Easy Word-Count: For more details see [countwordsfree.com](https://countwordsfree.com/#)
+
 *
 
 *
