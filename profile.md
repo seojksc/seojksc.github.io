@@ -20,7 +20,15 @@ I'm researching for **_Mathematical Computing_** including **_Deep Learning_** a
 *******************************************************************************
 
 ## Publications
-[1] Experimental Optimal Choice Of Initial Candidate Inliers Of The Feature Pairs With Well-Ordering Property For The Sample Consensus Method In The Stitching Of Drone-based Aerial Images
+[1] A Posteriori Outlier Rejection Approach Owing to the Well-ordering Property of a Sample Consensus Method for the Stitching of Drone-based Thermal Aerial Images
+
+February 2021, Journal of Imaging Science and Technology
+
+Byeong-Chun Shin, Jeong-Kweon Seo
+
+*
+
+[2] Experimental Optimal Choice Of Initial Candidate Inliers Of The Feature Pairs With Well-Ordering Property For The Sample Consensus Method In The Stitching Of Drone-based Aerial Images
 
 April 2020, KSII Transactions on Internet and Information Systems
 
@@ -28,7 +36,7 @@ Byeong-Chun Shin, Jeong-Kweon Seo
 
 *
 
-[2] Termite population size estimation based on termite tunnel patterns using a convolutional neural network
+[3] Termite population size estimation based on termite tunnel patterns using a convolutional neural network
 
 June 2019, Mathematical Biosciences
 
@@ -36,7 +44,7 @@ Jeong-Kweon Seo, Seongbok Baik, Sang-Hee Lee
 
 *
 
-[3] Simulating the architecture of a termite incipient nest using a convolutional neural network
+[4] Simulating the architecture of a termite incipient nest using a convolutional neural network
 
 February 2018, Ecological Informatics
 
@@ -44,7 +52,7 @@ Jeong-Kweon Seo, Seongbok Baik, Sang-Hee Lee
 
 *
 
-[4] Differentiation of the Follicular Neoplasm on the Gray-Scale US by Image Selection Subsampling along with the Marginal Outline Using Convolutional Neural Network
+[5] Differentiation of the Follicular Neoplasm on the Gray-Scale US by Image Selection Subsampling along with the Marginal Outline Using Convolutional Neural Network
 
 December 2017, BioMed Research International
 
@@ -52,7 +60,7 @@ Jeong-Kweon Seo, Young Jae Kim, Kwanggi Kim, [...], Jin Young Kwak
 
 *
 
-[5] 컴퓨터도움진단(Computer-Aided Diagnosis) 기술과 인공지능(AI)
+[6] 컴퓨터도움진단(Computer-Aided Diagnosis) 기술과 인공지능(AI)
 
 Aug 2017, (URL) http://www.dbpia.co.kr/Article/NODE07222610
 
@@ -60,7 +68,7 @@ Aug 2017, (URL) http://www.dbpia.co.kr/Article/NODE07222610
 
 *
 
-[6] LEAST-SQUARES SPECTRAL COLLOCATION PARALLEL METHODS FOR PARABOLIC PROBLEMS
+[7] LEAST-SQUARES SPECTRAL COLLOCATION PARALLEL METHODS FOR PARABOLIC PROBLEMS
 
 September 2015, DOI: 10.5831/HMJ.2015.37.3.299
 
@@ -68,7 +76,7 @@ Jeong-Kweon Seo, BYEONG-CHUN SHIN
 
 *
 
-[7] NUMERICAL SOLUTIONS OF BURGERS EQUATION BY REDUCED-ORDER MODELING BASED ON PSEUDO-SPECTRAL COLLOCATION METHOD
+[8] NUMERICAL SOLUTIONS OF BURGERS EQUATION BY REDUCED-ORDER MODELING BASED ON PSEUDO-SPECTRAL COLLOCATION METHOD
 
 June 2015, DOI: 10.12941/jksiam.2015.19.123
 
@@ -76,7 +84,7 @@ Jeong-Kweon Seo, BYEONG-CHUN SHIN
 
 *
 
-[8] Reduced Order Medeling With Pseudospectral Element Method On Burgers' Equation
+[9] Reduced Order Medeling With Pseudospectral Element Method On Burgers' Equation
 
 [Proceeding]
 
