@@ -19,7 +19,7 @@ I'm researching for **_Mathematical Computing_** including **_Deep Learning_** a
 
 *******************************************************************************
 
-## Manuscripts in Preparation
+## Manuscripts in preparation
 
 [1] False positive reduction of the mapping operators supported by generative adversarial network for the stitching of the drone-based thermal aerial images
 
