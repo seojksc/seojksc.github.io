@@ -13,7 +13,11 @@ I'm researching for **_Mathematical Computing_** including **_Deep Learning_** a
 ## Dissertations
 (Ph.D.)Frequency-domain method for partial differential equations and reduced-order modeling [Manuscript](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=52e65d3a308b8c8cffe0bdc3ef48d419&outLink=N)
 
+*
+
 (MS.)Reduced Order Pseudo-Spectral Galerkin Method On Burgers' Equation [Manuscript](http://www.riss.or.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=62c250e0079aedfbffe0bdc3ef48d419)
+
+*
 
 *******************************************************************************
 
@@ -27,6 +31,7 @@ Remote Sensing (title of the special issue invitation: Recent Progress in UAV-AI
 
 Jeong-Kweon Seo
 
+*
 
 [2] A local response sample consensus method for the stitching of drone-based aerial images supported by conditional generative adversarial network
 
@@ -34,6 +39,10 @@ Sensors (title of the special issue invitation: Drone Sensing and Imaging for En
 
 Jeong-Kweon Seo
 
+*
+*******************************************************************************
+
+*******************************************************************************
 
 ## On the review
 
@@ -43,6 +52,7 @@ Numerical Heat Transfer Part B Fundamentals
 
 Jeong-Kweon Seo
 
+*
 
 [2] A Pretraining Domain Decomposition Method Using Artificial Neural Networks to Solve Elliptic PDE Boundary Value Problems
 
@@ -50,6 +60,7 @@ Scientific Reports
 
 Jeong-Kweon Seo
 
+*
 
 [3] Multigrid Artificial Neural Network Method Solving Elliptic Boundary Value Partial Differential Equations
 
@@ -57,6 +68,11 @@ Computer Methods in Applied Mechanics and Engineering
 
 Byeong-Chun Shin, Jeong-Kweon Seo
 
+*
+
+*******************************************************************************
+
+*******************************************************************************
 
 ## Publications
 [1] A Posteriori Outlier Rejection Approach Owing to the Well-ordering Property of a Sample Consensus Method for the Stitching of Drone-based Thermal Aerial Images
