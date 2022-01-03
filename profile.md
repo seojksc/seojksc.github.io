@@ -19,6 +19,45 @@ I'm researching for **_Mathematical Computing_** including **_Deep Learning_** a
 
 *******************************************************************************
 
+## Manuscript in Preparation
+
+[1] False positive reduction of the mapping operators supported by generative adversarial network for the stitching of the drone-based thermal aerial images
+
+Remote Sensing (title of the special issue invitation: Recent Progress in UAV-AI Remote Sensing)
+
+Jeong-Kweon Seo
+
+
+[2] A local response sample consensus method for the stitching of drone-based aerial images supported by conditional generative adversarial network
+
+Sensors (title of the special issue invitation: Drone Sensing and Imaging for Environment Monitoring)
+
+Jeong-Kweon Seo
+
+
+## On the review
+
+[1] Reduced order modeling of the elliptic systems of the frequency-domain method and its error estimation
+
+Numerical Heat Transfer Part B Fundamentals
+
+Jeong-Kweon Seo
+
+
+[2] A Pretraining Domain Decomposition Method Using Artificial Neural Networks to Solve Elliptic PDE Boundary Value Problems
+
+Scientific Reports
+
+Jeong-Kweon Seo
+
+
+[3] Multigrid Artificial Neural Network Method Solving Elliptic Boundary Value Partial Differential Equations
+
+Computer Methods in Applied Mechanics and Engineering
+
+Byeong-Chun Shin, Jeong-Kweon Seo
+
+
 ## Publications
 [1] A Posteriori Outlier Rejection Approach Owing to the Well-ordering Property of a Sample Consensus Method for the Stitching of Drone-based Thermal Aerial Images
 
