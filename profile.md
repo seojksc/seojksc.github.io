@@ -1,6 +1,6 @@
 # Profile of **_Seo, Jeong-Kweon_**
 
-![seo-cyclegan-vanGohe4](https://user-images.githubusercontent.com/26245409/148490221-47a37af2-ecf2-438f-a0f3-183bc5aa2e1d.PNG)
+![seo-cyclegan-vanGohe5](https://user-images.githubusercontent.com/26245409/148712191-3ac006c3-ea7a-4cd7-8345-614792387e08.PNG)
 
 ![download (2)](https://user-images.githubusercontent.com/26245409/86245454-751d1800-bbe4-11ea-9f39-283e4ef078b8.png)
 
