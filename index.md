@@ -13,7 +13,7 @@ I'm currently working as researcher of computational science including **_data_*
 ## 공지사항 & 데이터과학 인공지능 관련 뉴스
 In this section, recent informations or news related with data science and artificial intelligence will be informed. 
 
-[1] 고려대학교 4차 산업혁명 선도할 '데이터 과학원' 개원:
+<!-- [1] 고려대학교 4차 산업혁명 선도할 '데이터 과학원' 개원:
 For more details see [e-대학저널](http://www.dhnews.co.kr/news/articleView.html?idxno=119645)
 
 [2] 데이터과학원(고려대학교 홈페이지):
@@ -25,7 +25,7 @@ For more details see [Chosun-Biz](https://biz.chosun.com/site/data/html_dir/2020
 
 [4] K-뉴딜정책, 2025년까지 114조 투입:
 For more details see [hankyung.com](https://www.hankyung.com/politics/article/2020071662357) and [eroun.net](http://www.eroun.net/news/articleView.html?idxno=12680)
-
+-->
 <!-- [5] 우리동네 아파트 시세:
 For more details download the .exe file [APT-price.exe](https://github.com/seojksc/seojksc.github.io/raw/master/APT-price.exe) -->
 
