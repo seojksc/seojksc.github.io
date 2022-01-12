@@ -26,8 +26,8 @@ For more details see [Chosun-Biz](https://biz.chosun.com/site/data/html_dir/2020
 [4] K-뉴딜정책, 2025년까지 114조 투입:
 For more details see [hankyung.com](https://www.hankyung.com/politics/article/2020071662357) and [eroun.net](http://www.eroun.net/news/articleView.html?idxno=12680)
 
-[5] 우리동네 아파트 시세:
-For more details download the .exe file [APT-price.exe](https://github.com/seojksc/seojksc.github.io/raw/master/APT-price.exe)
+<!-- [5] 우리동네 아파트 시세:
+For more details download the .exe file [APT-price.exe](https://github.com/seojksc/seojksc.github.io/raw/master/APT-price.exe) -->
 
 *
 
