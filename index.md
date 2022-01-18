@@ -52,12 +52,15 @@ For more details download the .exe file [APT-price.exe](https://github.com/seojk
 
 *
 
-![가나 우산 바위](https://user-images.githubusercontent.com/26245409/84734475-e309f280-afdb-11ea-99bf-480949e8a69f.jpg)
-© Felix Lipov / Shutterstock
+![혠이2021](https://user-images.githubusercontent.com/26245409/149877498-f4c28bb7-2cc4-4e39-a707-20470adfdb06.png)
+
+<!-- ![가나 우산 바위](https://user-images.githubusercontent.com/26245409/84734475-e309f280-afdb-11ea-99bf-480949e8a69f.jpg)
+© Felix Lipov / Shutterstock 
 
 ```markdown
 Code for neural-networks
 ```
+-->
 
 -END-
 
@@ -67,34 +70,3 @@ Code for neural-networks
 
 *******************************************************************************
 
-* (Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.)
-
-```markdown
-Codes of scientific computing...
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/seojksc/seojksc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
