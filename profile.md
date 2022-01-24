@@ -35,9 +35,9 @@ Jeong-Kweon Seo
 
 *
 
-[2] A local response sample consensus method for the stitching of drone-based aerial images supported by conditional generative adversarial network
+[2] Multigrid Artificial Neural Network Method Solving Elliptic Boundary Value Partial Differential Equations
 
-Sensors (title of the special issue invitation: Drone Sensing and Imaging for Environment Monitoring)
+(In Preparation)
 
 Jeong-Kweon Seo
 
@@ -65,11 +65,11 @@ Jeong-Kweon Seo
 
 *
 
-[3] Multigrid Artificial Neural Network Method Solving Elliptic Boundary Value Partial Differential Equations
+[3] A cognitive sample consensus method for the stitching of drone-based aerial images supported by generative adversarial network for the false positive reduction
 
-Computer Methods in Applied Mechanics and Engineering
+Sensors (title of the special issue invitation: Drone Sensing and Imaging for Environment Monitoring)
 
-Byeong-Chun Shin, Jeong-Kweon Seo
+Jeong-Kweon Seo
 
 *
 
