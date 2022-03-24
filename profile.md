@@ -33,7 +33,7 @@ Remote Sensing (title of the special issue invitation: Recent Progress in UAV-AI
 
 Jeong-Kweon Seo
 
-*
+* 
 
 [2] Multigrid Artificial Neural Network Method Solving Elliptic Boundary Value Partial Differential Equations
 
