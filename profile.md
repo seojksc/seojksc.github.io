@@ -20,7 +20,7 @@ I'm researching for **_Mathematical Computing_** including **_Deep Learning_** a
 (MS.)Reduced Order Pseudo-Spectral Galerkin Method On Burgers' Equation [Manuscript](http://www.riss.or.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=62c250e0079aedfbffe0bdc3ef48d419)
 
 *
-
+ 
 *******************************************************************************
 
 *******************************************************************************
