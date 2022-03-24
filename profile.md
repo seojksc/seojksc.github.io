@@ -97,7 +97,7 @@ Byeong-Chun Shin, Jeong-Kweon Seo
 
 [4] Termite population size estimation based on termite tunnel patterns using a convolutional neural network
 
-June 2019, Mathematical Biosciences (SCI)
+June 2019, Mathematical Biosciences (SCIE)
 
 Jeong-Kweon Seo, Seongbok Baik, Sang-Hee Lee
 
