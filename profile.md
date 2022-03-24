@@ -75,7 +75,7 @@ Jeong-Kweon Seo
 
 23 March 2022, Sensors (SCIE)
 
-Jeong-Kweon Seo
+Jeong-Kweon Seo 
 
 *
 
