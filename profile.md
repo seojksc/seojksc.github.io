@@ -29,7 +29,7 @@ I'm researching for **_Mathematical Computing_** including **_Deep Learning_** a
 
 [1] False positive reduction of the mapping operators supported by generative adversarial network for the stitching of the drone-based thermal aerial images
 
-Remote Sensing (title of the special issue invitation: Recent Progress in UAV-AI Remote Sensing)
+Remote Sensing (title of the special issue invitation: Recent Progress in UAV-AI Remote Sensing) (SCIE)
 
 Jeong-Kweon Seo
 
@@ -51,7 +51,7 @@ Jeong-Kweon Seo
 
 [1] Reduced order modeling of the elliptic systems of the frequency-domain method and its error estimation
 
-Numerical Heat Transfer Part B Fundamentals
+Numerical Heat Transfer Part B Fundamentals (SCIE)
 
 Jeong-Kweon Seo
 
@@ -59,7 +59,7 @@ Jeong-Kweon Seo
 
 [2] A Pretraining Domain Decomposition Method Using Artificial Neural Networks to Solve Elliptic PDE Boundary Value Problems
 
-Scientific Reports
+Scientific Reports (SCIE)
 
 Jeong-Kweon Seo
 
@@ -73,7 +73,7 @@ Jeong-Kweon Seo
 
 [1] A cognitive sample consensus method for the stitching of drone-based aerial images supported by generative adversarial network for the false positive reduction
 
-23 March 2022, Sensors  
+23 March 2022, Sensors (SCIE)
 
 Jeong-Kweon Seo
 
@@ -81,7 +81,7 @@ Jeong-Kweon Seo
 
 [2] A Posteriori Outlier Rejection Approach Owing to the Well-ordering Property of a Sample Consensus Method for the Stitching of Drone-based Thermal Aerial Images
 
-February 2021, Journal of Imaging Science and Technology
+February 2021, Journal of Imaging Science and Technology (SCIE)
 
 Byeong-Chun Shin, Jeong-Kweon Seo
 
@@ -89,7 +89,7 @@ Byeong-Chun Shin, Jeong-Kweon Seo
 
 [3] Experimental Optimal Choice Of Initial Candidate Inliers Of The Feature Pairs With Well-Ordering Property For The Sample Consensus Method In The Stitching Of Drone-based Aerial Images
 
-April 2020, KSII Transactions on Internet and Information Systems
+April 2020, KSII Transactions on Internet and Information Systems (SCIE)
 
 Byeong-Chun Shin, Jeong-Kweon Seo
 
@@ -97,7 +97,7 @@ Byeong-Chun Shin, Jeong-Kweon Seo
 
 [4] Termite population size estimation based on termite tunnel patterns using a convolutional neural network
 
-June 2019, Mathematical Biosciences
+June 2019, Mathematical Biosciences (SCI)
 
 Jeong-Kweon Seo, Seongbok Baik, Sang-Hee Lee
 
@@ -105,7 +105,7 @@ Jeong-Kweon Seo, Seongbok Baik, Sang-Hee Lee
 
 [5] Simulating the architecture of a termite incipient nest using a convolutional neural network
 
-February 2018, Ecological Informatics
+February 2018, Ecological Informatics (SCIE)
 
 Jeong-Kweon Seo, Seongbok Baik, Sang-Hee Lee
 
@@ -113,7 +113,7 @@ Jeong-Kweon Seo, Seongbok Baik, Sang-Hee Lee
 
 [6] Differentiation of the Follicular Neoplasm on the Gray-Scale US by Image Selection Subsampling along with the Marginal Outline Using Convolutional Neural Network
 
-December 2017, BioMed Research International
+December 2017, BioMed Research International (SCIE)
 
 Jeong-Kweon Seo, Young Jae Kim, Kwanggi Kim, [...], Jin Young Kwak
 
@@ -121,7 +121,7 @@ Jeong-Kweon Seo, Young Jae Kim, Kwanggi Kim, [...], Jin Young Kwak
 
 [7] 컴퓨터도움진단(Computer-Aided Diagnosis) 기술과 인공지능(AI)
 
-Aug 2017, (URL) http://www.dbpia.co.kr/Article/NODE07222610
+Aug 2017, (URL) http://www.dbpia.co.kr/Article/NODE07222610 (The Korean Institute of Electrical Engineers)
 
 서정권, 김영재, 김광기
 
@@ -129,7 +129,7 @@ Aug 2017, (URL) http://www.dbpia.co.kr/Article/NODE07222610
 
 [8] LEAST-SQUARES SPECTRAL COLLOCATION PARALLEL METHODS FOR PARABOLIC PROBLEMS
 
-September 2015, DOI: 10.5831/HMJ.2015.37.3.299
+September 2015, DOI: 10.5831/HMJ.2015.37.3.299 (KCI)
 
 Jeong-Kweon Seo, BYEONG-CHUN SHIN
 
@@ -137,7 +137,7 @@ Jeong-Kweon Seo, BYEONG-CHUN SHIN
 
 [9] NUMERICAL SOLUTIONS OF BURGERS EQUATION BY REDUCED-ORDER MODELING BASED ON PSEUDO-SPECTRAL COLLOCATION METHOD
 
-June 2015, DOI: 10.12941/jksiam.2015.19.123
+June 2015, DOI: 10.12941/jksiam.2015.19.123 (KCI)
 
 Jeong-Kweon Seo, BYEONG-CHUN SHIN
 
@@ -147,7 +147,7 @@ Jeong-Kweon Seo, BYEONG-CHUN SHIN
 
 [Proceeding]
 
-Nov 2009, (URL) http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01530620
+Nov 2009, (URL) http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01530620 (KSIAM)
 
 Jeong-Kweon Seo, Byeong-Chun SHIN
 
