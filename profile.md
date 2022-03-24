@@ -92,7 +92,7 @@ Byeong-Chun Shin, Jeong-Kweon Seo
 April 2020, KSII Transactions on Internet and Information Systems (SCIE)
 
 Byeong-Chun Shin, Jeong-Kweon Seo
-
+ 
 *
 
 [4] Termite population size estimation based on termite tunnel patterns using a convolutional neural network
