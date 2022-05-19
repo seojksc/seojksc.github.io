@@ -65,7 +65,7 @@ Jeong-Kweon Seo
 
 [1] Reduced order modeling of the elliptic systems of the frequency-domain method and its error estimation
 
-Numerical Heat Transfer Part B Fundamentals (SCIE), May 2022, accepted
+Numerical Heat Transfer Part B Fundamentals (SCIE), May 2022, Accepted
 
 Jeong-Kweon Seo
 
