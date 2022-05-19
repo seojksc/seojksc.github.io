@@ -47,19 +47,25 @@ Jeong-Kweon Seo
 
 *******************************************************************************
  
-## On the review
+## Manuscripts on the review
 
-[1] Reduced order modeling of the elliptic systems of the frequency-domain method and its error estimation
+[1] A Pretraining Domain Decomposition Method Using Artificial Neural Networks to Solve Elliptic PDE Boundary Value Problems
 
-Numerical Heat Transfer Part B Fundamentals (SCIE)
+Scientific Reports (SCIE), Major Revision
 
 Jeong-Kweon Seo
 
 *
 
-[2] A Pretraining Domain Decomposition Method Using Artificial Neural Networks to Solve Elliptic PDE Boundary Value Problems
+*******************************************************************************
 
-Scientific Reports (SCIE)
+*******************************************************************************
+ 
+## Manuscripts Accepted
+
+[1] Reduced order modeling of the elliptic systems of the frequency-domain method and its error estimation
+
+Numerical Heat Transfer Part B Fundamentals (SCIE), May 2022, accepted
 
 Jeong-Kweon Seo
 
