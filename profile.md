@@ -89,7 +89,7 @@ Jeong-Kweon Seo
 
 February 2021, Journal of Imaging Science and Technology (SCIE)
 
-Byeong-Chun Shin, Jeong-Kweon Seo
+Byeong-Chun Shin, Jeong-Kweon Seo 
 
 *
 
