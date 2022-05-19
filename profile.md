@@ -61,7 +61,7 @@ Jeong-Kweon Seo
 
 *******************************************************************************
  
-## Manuscripts Accepted
+## Manuscripts accepted
 
 [1] Reduced order modeling of the elliptic systems of the frequency-domain method and its error estimation
 
