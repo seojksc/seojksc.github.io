@@ -43,7 +43,7 @@ Jeong-Kweon Seo
 
 *
 
-[3] A Pretraining Multigrid Artificial Neural Network Method Solving Elliptic Boundary Value Partial Differential Equations
+[3] A pretraining Multigrid Artificial Neural Network Method Solving Elliptic Boundary Value Partial Differential Equations
 
 (In Preparation)
 
