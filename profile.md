@@ -47,7 +47,7 @@ Jeong-Kweon Seo
 
 (In Preparation)
 
-Jeong-Kweon Seo, Byeong-Chun Shin
+Jeong-Kweon Seo, Byeong-Chun Shin  
 
 *
 
