@@ -29,7 +29,7 @@ I'm researching for **_Mathematical Computing_** including **_Deep Learning_** a
 
 [1] False positive reduction of the mapping operators supported by generative adversarial network for the stitching of the drone-based thermal aerial images
 
-Remote Sensing (title of the special issue invitation: Recent Progress in UAV-AI Remote Sensing) (SCIE)
+(In Preparation)
 
 Jeong-Kweon Seo
 
