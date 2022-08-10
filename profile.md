@@ -58,11 +58,7 @@ Jeong-Kweon Seo, Byeong-Chun Shin
  
 ## Manuscripts on the review
 
-[1] A Pretraining Domain Decomposition Method Using Artificial Neural Networks to Solve Elliptic PDE Boundary Value Problems
 
-Scientific Reports (SCIE), Major Revision
-
-Jeong-Kweon Seo
 
 *
 
@@ -72,11 +68,29 @@ Jeong-Kweon Seo
  
 ## Manuscripts accepted
 
-[1] Reduced order modeling of the elliptic systems of the frequency-domain method and its error estimation
+[1] A Pretraining Domain Decomposition Method Using Artificial Neural Networks to Solve Elliptic PDE Boundary Value Problems
+
+Scientific Reports (SCIE), August 2022, Accepted
+
+(This paper was transferred from submitting to the Journal of Scientific Computing, Springer-Nature.)
+
+Jeong-Kweon Seo
+
+*
+
+[2] Reduced order modeling of the elliptic systems of the frequency-domain method and its error estimation
 
 Numerical Heat Transfer Part B Fundamentals (SCIE), May 2022, Accepted
 
 Jeong-Kweon Seo
+
+*
+
+[3] A cognitive sample consensus method for the stitching of drone-based aerial images supported by generative adversarial network for the false positive reduction
+
+Sensors (SCIE), March 2022, Accepted
+
+Jeong-Kweon Seo 
 
 *
 
