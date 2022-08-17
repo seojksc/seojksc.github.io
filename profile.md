@@ -70,7 +70,7 @@ Jeong-Kweon Seo, Byeong-Chun Shin
 
 [1] A Pretraining Domain Decomposition Method Using Artificial Neural Networks To Solve Elliptic PDE Boundary Value Problems
 
-Scientific Reports (SCIE), August 2022, Accepted
+Scientific Reports (SCIE), August 2022, Accepted 
 
 (This paper was transferred from submitting to the Journal of Scientific Computing, Springer-Nature.)
 
