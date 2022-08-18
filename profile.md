@@ -100,7 +100,15 @@ Jeong-Kweon Seo
 
 ## Publications
 
-[1] Reduced order modeling of the elliptic systems of the frequency-domain method and its error estimation
+[1] A Pretraining Domain Decomposition Method Using Artificial Neural Networks To Solve Elliptic PDE Boundary Value Problems
+
+17 August 2022, Scientific Reports (SCIE) 
+
+Jeong-Kweon Seo
+
+*
+
+[2] Reduced order modeling of the elliptic systems of the frequency-domain method and its error estimation
 
 07 June 2022, Numerical Heat Transfer Part B: Fundamentals (SCIE) 
 
@@ -108,7 +116,7 @@ Jeong-Kweon Seo
 
 *
 
-[2] A cognitive sample consensus method for the stitching of drone-based aerial images supported by generative adversarial network for the false positive reduction
+[3] A cognitive sample consensus method for the stitching of drone-based aerial images supported by generative adversarial network for the false positive reduction
 
 23 March 2022, Sensors (SCIE)
 
@@ -116,7 +124,7 @@ Jeong-Kweon Seo
 
 *
 
-[3] A Posteriori Outlier Rejection Approach Owing to the Well-ordering Property of a Sample Consensus Method for the Stitching of Drone-based Thermal Aerial Images
+[4] A Posteriori Outlier Rejection Approach Owing to the Well-ordering Property of a Sample Consensus Method for the Stitching of Drone-based Thermal Aerial Images
 
 February 2021, Journal of Imaging Science and Technology (SCIE)
 
@@ -124,7 +132,7 @@ Byeong-Chun Shin, Jeong-Kweon Seo
 
 *
 
-[4] Experimental Optimal Choice Of Initial Candidate Inliers Of The Feature Pairs With Well-Ordering Property For The Sample Consensus Method In The Stitching Of Drone-based Aerial Images
+[5] Experimental Optimal Choice Of Initial Candidate Inliers Of The Feature Pairs With Well-Ordering Property For The Sample Consensus Method In The Stitching Of Drone-based Aerial Images
 
 April 2020, KSII Transactions on Internet and Information Systems (SCIE)
 
@@ -132,7 +140,7 @@ Byeong-Chun Shin, Jeong-Kweon Seo
  
 *
 
-[5] Termite population size estimation based on termite tunnel patterns using a convolutional neural network
+[6] Termite population size estimation based on termite tunnel patterns using a convolutional neural network
 
 June 2019, Mathematical Biosciences (SCIE)
 
@@ -140,7 +148,7 @@ Jeong-Kweon Seo, Seongbok Baik, Sang-Hee Lee
 
 *
 
-[6] Simulating the architecture of a termite incipient nest using a convolutional neural network
+[7] Simulating the architecture of a termite incipient nest using a convolutional neural network
 
 February 2018, Ecological Informatics (SCIE)
 
@@ -148,7 +156,7 @@ Jeong-Kweon Seo, Seongbok Baik, Sang-Hee Lee
 
 *
 
-[7] Differentiation of the Follicular Neoplasm on the Gray-Scale US by Image Selection Subsampling along with the Marginal Outline Using Convolutional Neural Network
+[8] Differentiation of the Follicular Neoplasm on the Gray-Scale US by Image Selection Subsampling along with the Marginal Outline Using Convolutional Neural Network
 
 December 2017, BioMed Research International (SCIE)
 
@@ -156,7 +164,7 @@ Jeong-Kweon Seo, Young Jae Kim, Kwanggi Kim, [...], Jin Young Kwak
 
 *
 
-[8] 컴퓨터도움진단(Computer-Aided Diagnosis) 기술과 인공지능(AI)
+[9] 컴퓨터도움진단(Computer-Aided Diagnosis) 기술과 인공지능(AI)
 
 Aug 2017, (URL) http://www.dbpia.co.kr/Article/NODE07222610 (The Korean Institute of Electrical Engineers)
 
@@ -164,7 +172,7 @@ Aug 2017, (URL) http://www.dbpia.co.kr/Article/NODE07222610 (The Korean Institut
 
 *
 
-[9] LEAST-SQUARES SPECTRAL COLLOCATION PARALLEL METHODS FOR PARABOLIC PROBLEMS
+[10] LEAST-SQUARES SPECTRAL COLLOCATION PARALLEL METHODS FOR PARABOLIC PROBLEMS
 
 September 2015, DOI: 10.5831/HMJ.2015.37.3.299 (KCI)
 
@@ -172,7 +180,7 @@ Jeong-Kweon Seo, BYEONG-CHUN SHIN
 
 *
 
-[10] NUMERICAL SOLUTIONS OF BURGERS EQUATION BY REDUCED-ORDER MODELING BASED ON PSEUDO-SPECTRAL COLLOCATION METHOD
+[11] NUMERICAL SOLUTIONS OF BURGERS EQUATION BY REDUCED-ORDER MODELING BASED ON PSEUDO-SPECTRAL COLLOCATION METHOD
 
 June 2015, DOI: 10.12941/jksiam.2015.19.123 (KCI)
 
@@ -180,7 +188,7 @@ Jeong-Kweon Seo, BYEONG-CHUN SHIN
 
 *
 
-[11] Reduced Order Medeling With Pseudospectral Element Method On Burgers' Equation
+[12] Reduced Order Medeling With Pseudospectral Element Method On Burgers' Equation
 
 [Proceeding]
 
