@@ -204,6 +204,18 @@ Jeong-Kweon Seo, Byeong-Chun SHIN
 
 *
 
+[13] Estimation of termite population size using convolution neural network
+
+[Proceeding]
+
+Oct 2018, 2018년 작물보호분야 공동 국제학술대회, Korean Society Of Applied Entomology
+
+(URL) http://db.koreascholar.com/article.aspx?code=364026 
+
+Sang-Hee Lee, Jeong-Kweon Seo
+
+*
+
 *
 
 *
