@@ -35,7 +35,7 @@ Jeong-Kweon Seo
 
 * 
 
-[2] Multigrid Fast Solver of the Artificial Neural Network Method Solving Elliptic Boundary Value Partial Differential Equations
+[2] Artificial Neural Networks on Multi-grid Domain to Solve Elliptic Boundary Value PDEs for Non-linear Problems
 
 (In Preparation)
 
@@ -47,7 +47,7 @@ Jeong-Kweon Seo
 
 (In Preparation) 
 
-Jeong-Kweon Seo, Byeong-Chun Shin
+Jeong-Kweon Seo
 
 *
 
@@ -58,13 +58,21 @@ Jeong-Kweon Seo, Byeong-Chun Shin
  
 ## Manuscripts on the review
 
-[1] Artificial Neural Network Method Solving Elliptic Boundary Value Partial Differential Equations with Multigrid Domain: a Preliminary Study
+[1] A reduced order modeling using the frequency-domain method for parabolic partial differential equations
 
-AIMS Mathematics (SCIE), September 2022, Submitted
+AIMS Mathematics (SCIE), February 2023, Submitted
 
 (Title of the special issue: Scientific computing and numerical analysis for differential equations)
 
 Jeong-Kweon Seo, Byeong-Chun Shin
+
+*
+
+[2] Complementary Learning of Artificial Neural Networks on Multi-grid Domain to Solve Elliptic Boundary Value PDEs
+
+Journal of Machine Learning Research (SCIE), March 2023, Submitted
+
+Byeong-Chun Shin, Jeong-Kweon Seo(Corresponging author)
 
 *
 
