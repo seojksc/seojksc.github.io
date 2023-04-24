@@ -58,17 +58,7 @@ Jeong-Kweon Seo
  
 ## Manuscripts on the review
 
-[1] A reduced order modeling using the frequency-domain method for parabolic partial differential equations
-
-AIMS Mathematics (SCIE), February 2023, Submitted
-
-(Title of the special issue: Scientific computing and numerical analysis for differential equations)
-
-Jeong-Kweon Seo, Byeong-Chun Shin
-
-*
-
-[2] Complementary Learning of Artificial Neural Networks on Multi-grid Domain to Solve Elliptic Boundary Value PDEs
+[1] Complementary Learning of Artificial Neural Networks on Multi-grid Domain to Solve Elliptic Boundary Value PDEs
 
 Journal of Machine Learning Research (SCIE), March 2023, Submitted
 
@@ -82,29 +72,13 @@ Byeong-Chun Shin, Jeong-Kweon Seo(Corresponging author)
  
 ## Manuscripts accepted
 
-[1] A Pretraining Domain Decomposition Method Using Artificial Neural Networks To Solve Elliptic PDE Boundary Value Problems
+[1] A reduced order modeling using the frequency-domain method for parabolic partial differential equations
 
-Scientific Reports (SCIE), August 2022, Accepted 
+AIMS Mathematics (SCIE), April 2023, Accepted
 
-(This paper was transferred from submitting to the Journal of Scientific Computing, Springer-Nature.)
+(Title of the special issue: Scientific computing and numerical analysis for differential equations)
 
-Jeong-Kweon Seo
-
-*
-
-[2] Reduced order modeling of the elliptic systems of the frequency-domain method and its error estimation
-
-Numerical Heat Transfer Part B Fundamentals (SCIE), May 2022, Accepted
-
-Jeong-Kweon Seo
-
-*
-
-[3] A cognitive sample consensus method for the stitching of drone-based aerial images supported by generative adversarial network for the false positive reduction
-
-Sensors (SCIE), March 2022, Accepted
-
-Jeong-Kweon Seo 
+Jeong-Kweon Seo, Byeong-Chun Shin
 
 *
 
