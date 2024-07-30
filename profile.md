@@ -58,11 +58,11 @@ Jeong-Kweon Seo
  
 ## Manuscripts on the review
 
-[1] A Reduced-Form Multigrid Approach for ANN Equivalent to Classic Multigrid Expansion
+[1] Clinical Feasibility of Motor Hotspot Localization Based on Electroencephalography Using Convolutional Neural Network in Stroke
 
-Neural Computing and Applications (SCIE), Submitted November 2023, in Major revision
+(submitted on 18 June 2024), Journal of NeuroEngineering and Rehabilitation (SCIE)
 
-Jeong-Kweon Seo
+Ga-Young Choi, Jeong-Kweon Seo, Kyoung Tae Kim, Won Kee Chang, Sung Whan Yoon, Nam-Jong Paik, Won-Seok Kim, Han-Jeong Hwang
 
 *
 
@@ -72,13 +72,11 @@ Jeong-Kweon Seo
  
 ## Manuscripts accepted
 
-[1] A reduced order modeling using the frequency-domain method for parabolic partial differential equations
+[1] A Reduced-Form Multigrid Approach for ANN Equivalent to Classic Multigrid Expansion
 
-AIMS Mathematics (SCIE), April 2023, Accepted
+ (accepted on 29 July 2024), Neural Computing and Applications (SCIE)
 
-(Title of the special issue: Scientific computing and numerical analysis for differential equations)
-
-Jeong-Kweon Seo, Byeong-Chun Shin
+Jeong-Kweon Seo
 
 *
 
