@@ -1,7 +1,6 @@
 # Profile of **_Seo, Jeong-Kweon_**
 
-![seo-cyclegan-vanGohe5](https://user-images.githubusercontent.com/26245409/148712191-3ac006c3-ea7a-4cd7-8345-614792387e08.PNG)
-
+![KakaoTalk_20240819_115948788](https://github.com/user-attachments/assets/1da3d3e6-23c8-4ef6-a758-1a1fa7710749)
 ![download (2)](https://user-images.githubusercontent.com/26245409/86245454-751d1800-bbe4-11ea-9f39-283e4ef078b8.png)
 
 I'm researching for **_Mathematical Computing_** including **_Deep Learning_** and **_PDE solver_** and **_Computer Vision_**, **_etc_**.
