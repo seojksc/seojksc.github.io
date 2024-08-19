@@ -5,7 +5,7 @@
 
 I'm researching for **_Mathematical Computing_** including **_Deep Learning_** and **_PDE solver_** and **_Computer Vision_**, **_etc_**.
 
-<p align="center"><img src="https://user-images.githubusercontent.com/26245409/86247793-f3c78480-bbe7-11ea-9e34-5904b4ee1dfd.png"></p>
+<p align="center"><img src="![그림1](https://github.com/user-attachments/assets/b6697dad-8f8e-43e0-bb77-754a55d6dc3b)"></p>
 
 ******************************************************************************* 
  
