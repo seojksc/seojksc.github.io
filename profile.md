@@ -50,6 +50,14 @@ Jeong-Kweon Seo
 
 *
 
+[4] An implicit ANN ansatz of multi-grid method to solve partial differential equations
+
+(In Preparation) 
+
+Jeong-Kweon Seo
+
+*
+
 
 *******************************************************************************
 
@@ -57,11 +65,7 @@ Jeong-Kweon Seo
  
 ## Manuscripts on the review
 
-[1] Clinical Feasibility of Motor Hotspot Localization Based on Electroencephalography Using Convolutional Neural Network in Stroke
-
-(submitted on 18 June 2024), Journal of NeuroEngineering and Rehabilitation (SCIE)
-
-Ga-Young Choi, Jeong-Kweon Seo, Kyoung Tae Kim, Won Kee Chang, Sung Whan Yoon, Nam-Jong Paik, Won-Seok Kim, Han-Jeong Hwang
+[1]
 
 *
 
@@ -71,11 +75,11 @@ Ga-Young Choi, Jeong-Kweon Seo, Kyoung Tae Kim, Won Kee Chang, Sung Whan Yoon, N
  
 ## Manuscripts accepted
 
-[1] A Reduced-Form Multigrid Approach for ANN Equivalent to Classic Multigrid Expansion
+[1] Clinical Feasibility of Motor Hotspot Localization Based on Electroencephalography Using Convolutional Neural Network in Stroke
 
- (accepted on 29 July 2024), Neural Computing and Applications (SCIE)
+(accepted on 28 August 2025), Journal of NeuroEngineering and Rehabilitation (SCIE)
 
-Jeong-Kweon Seo
+Ga-Young Choi, Jeong-Kweon Seo, Kyoung Tae Kim, Won Kee Chang, Sung Whan Yoon, Nam-Jong Paik, Won-Seok Kim, Han-Jeong Hwang
 
 *
 
