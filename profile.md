@@ -91,7 +91,7 @@ Ga-Young Choi, Jeong-Kweon Seo, Kyoung Tae Kim, Won Kee Chang, Sung Whan Yoon, N
 
 [1] A reduced-form multigrid approach for ANN equivalent to classic multigrid expansion
 
-19 August 2024, Neural Comput & Applic (SCIE)
+19 August 2024, Neural Computing and Applications (SCIE)
 
 Jeong-Kweon Seo
 
